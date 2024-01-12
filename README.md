@@ -11,8 +11,8 @@ Then, add two rows inside of it using the table row element.
 Inside of that, include an `<h1>` with the following text: _Wine Festival Schedule_.
 
 4. Inside the second table row element, from task 2, add two `<th>`s:
-> In the first, add an `<h2>` that says **Time**.
-> In the second, add an `<h2>` that says **Event**.
+* In the first, add an `<h2>` that says **Time**.
+* In the second, add an `<h2>` that says **Event**.
 
 5. You may notice that “Wine Festival Schedule” does not stretch across the entire table. Let’s fix that!
 In the opening `<th>` tag of this element, add `colspan="2"`.
