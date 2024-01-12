@@ -25,19 +25,19 @@ In the opening `<th>` tag of this element, add `colspan="2"`.
 The first table data in each row should have the attribute `class` with the value `"left"`.
 
 9. Inside each of the 5 `<td class="left">` elements, add `<h3>` elements that include the times of the events:
-> 12:00 PM
-> 01:00 PM
-> 02:00 PM
-> 03:00 PM
-> 04:00 PM
+* 12:00 PM
+* 01:00 PM
+* 02:00 PM
+* 03:00 PM
+* 04:00 PM
 
 Feel free to look back at the live site to compare.
 
 10. Inside each of the `<td>` elements that does not have a `class` attribute with a value of `"left"`, add `<h3>` elements that include the name of events:
-> Welcome Reception
-> Storytelling & Tasting
-> Wine Luncheon
-> Aguillar Family Wines
-> Wine & Cheese Tasting
+* Welcome Reception
+* Storytelling & Tasting
+* Wine Luncheon
+* Aguillar Family Wines
+* Wine & Cheese Tasting
 
 You have created the events table. Cheers!
